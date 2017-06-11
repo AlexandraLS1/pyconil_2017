@@ -9,6 +9,8 @@ font.family: sans-serif
 font.style: normal
 font.sans-serif: Arial
 
+image.cmap: gist_heat
+
 axes.facecolor: white
 axes.edgecolor: white
 axes.linewidth: 1
